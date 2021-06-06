@@ -1,1 +1,1 @@
-# Aomi Web Docs
+# Aomi Web
